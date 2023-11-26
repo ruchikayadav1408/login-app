@@ -1,8 +1,21 @@
-# React + Vite
+# USING REACT🔥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Website Preview
 
-Currently, two official plugins are available:
+https://vocal-manatee-b06252.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## signup page
+![Screenshot (311)](https://github.com/ruchikayadav1408/login-app/assets/86114973/ab2a652c-b040-410e-a791-713d97411440)
+
+## Login Page
+
+![Screenshot (314)](https://github.com/ruchikayadav1408/login-app/assets/86114973/39a3d512-4a10-438b-9c4e-15ae26f5497f)
+
+## Tools Used 🛠️
+* <b>NETLIFY</b> - To host website 
+
+# database:
+mongodb
+<br>![Screenshot (313)](https://github.com/ruchikayadav1408/login-app/assets/86114973/6da2025f-4d89-4228-b405-0c95bf323d3b)
+
+
